@@ -10,6 +10,7 @@ import java.util.Scanner;
  Nama : Zalfa Rosiyah Riski 
  Nim : 22205011
  Jurusan : Teknik Infromatika
+ Deskripsi : 
  */
 public class TI_REGPAGI22205011latihan22ZalfaJava {
 
