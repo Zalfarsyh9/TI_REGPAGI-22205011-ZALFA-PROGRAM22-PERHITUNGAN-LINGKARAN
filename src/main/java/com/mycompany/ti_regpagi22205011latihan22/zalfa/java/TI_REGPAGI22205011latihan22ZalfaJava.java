@@ -10,7 +10,7 @@ import java.util.Scanner;
  Nama : Zalfa Rosiyah Riski 
  Nim : 22205011
  Jurusan : Teknik Infromatika
- Deskripsi : 
+ Deskripsi : Buatlah program perhitungan yang inputnya berasal dari user dan kondisi-kondisi
  */
 public class TI_REGPAGI22205011latihan22ZalfaJava {
 
